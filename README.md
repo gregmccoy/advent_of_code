@@ -1,2 +1,5 @@
-# advent_of_code
-Advent of Code 2019 
+# Advent of Code 2019
+
+My solutions for Advent of Code 2019 using Python3. 
+
+https://adventofcode.com/2019/
